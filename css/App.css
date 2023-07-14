@@ -1,0 +1,9 @@
+/* 동일한 이름으로 사용 */
+
+.app_header {
+  background-color: aqua;
+  height: 50px;
+  line-height: 50px;
+  margin: 0;
+  padding: 0;
+}
